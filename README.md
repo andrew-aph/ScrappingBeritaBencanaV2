@@ -36,7 +36,7 @@ Dashboard juga mengekstrak dan merekap informasi kejadian bencana seperti:
 - Rumah rusak
 - Kronologis kejadian
 
-![Tabel Bencana](https://github.com/username/siberna/blob/main/screenshots/Dokumentasi_Tab_3.png)
+![Tabel Bencana](https://github.com/andrew-aph/ScrappingBeritaBencanaV2/blob/main/Tab%203.png)
 
 ---
 
