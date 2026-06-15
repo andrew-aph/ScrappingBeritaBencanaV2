@@ -1,4 +1,4 @@
-# 🔥 SIBERNA — Sistem Informasi Berita Bencana Nasional
+# 🌍 SIBERNA — Sistem Informasi Berita Bencana Nasional
 
 Dashboard monitoring **berita kebencanaan nasional** yang melakukan **web scraping otomatis dari berbagai portal berita** dan menyajikannya dalam bentuk **dataset, analisis distribusi, serta tabel kejadian bencana**.
 Dashboard ini dibangun menggunakan **Python dan Streamlit** untuk membantu memantau informasi bencana secara cepat dan akurat dari berbagai sumber media online.
