@@ -11,7 +11,7 @@ Dashboard ini dibangun menggunakan **Python dan Streamlit** untuk membantu meman
 
 Dashboard menampilkan seluruh berita hasil scraping yang telah dikumpulkan dari berbagai portal berita, lengkap dengan judul, tanggal, sumber, tag bencana, dan preview isi berita.
 
-![Dataset Berita]([https://github.com/username/siberna/blob/main/screenshots/Dokumentasi_Tab_1.png](https://github.com/andrew-aph/ScrappingBeritaBencanaV2/blob/main/Tab%201.png))
+![Dataset Berita](https://github.com/andrew-aph/ScrappingBeritaBencanaV2/blob/main/Tab%201.png)
 
 ---
 
