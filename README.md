@@ -19,7 +19,7 @@ Dashboard menampilkan seluruh berita hasil scraping yang telah dikumpulkan dari 
 
 Pengguna dapat melihat **distribusi berita per sumber** (donut chart), **tipe bencana** (bar chart), **top provinsi terdampak**, serta **ringkasan isi berita** lengkap dengan tanggal, tag, dan link menuju sumber berita asli.
 
-![Detail Analisis](https://github.com/username/siberna/blob/main/screenshots/Dokumentasi_Tab_2.png)
+![Detail Analisis](https://github.com/andrew-aph/ScrappingBeritaBencanaV2/blob/main/Tab%202.png)
 
 ---
 
