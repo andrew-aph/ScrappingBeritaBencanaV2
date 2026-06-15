@@ -161,4 +161,4 @@ Data diperoleh dari hasil scraping portal berita dan hanya digunakan untuk tujua
 
 # 👨‍💻 Author
 
-Developed by **[Nama Anda]**
+Developed by **Andrew Putra Hartanto**
